@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KUA Gemawang</title>
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+    <header>
+        <h1>Selamat Datang di KUA Gemawang</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Beranda</a></li>
+                <li><a href="#">Profil</a></li>
+                <li><a href="#">Pelayanan</a></li>
+                <li><a href="#">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Profil Instansi</h2>
+            <p>KUA Gemawang adalah lembaga yang melayani urusan keagamaan dan pencatatan pernikahan di wilayah Gemawang.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 KUA Gemawang</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
